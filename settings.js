@@ -67,7 +67,7 @@ global.botname = 'Jᵃⁿᵘ ʙᴏᴛ @²⁰²²🐱♥️' //ur bot name
 global.linkz = "https://www.facebook.com/profile.php?id=100070412296277" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "🙈" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Jᵃⁿᵘ ʙᴏᴛ @²⁰²²🐱♥️" //ur sticker watermark packname
 global.author = "⫷⃞😻Dᵃ͢ʳᵏ Kɪɴɢ |Jᵃⁿ͟ᵘ🎀♥️:✬᭄" //ur sticker watermark author
